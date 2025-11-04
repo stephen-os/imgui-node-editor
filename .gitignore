@@ -9,3 +9,10 @@ bin
 *.user
 *.ini
 *.json
+
+
+# Directories
+bin/
+bin-int/
+*.filters
+*.vcxproj
